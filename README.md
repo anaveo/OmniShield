@@ -1,7 +1,7 @@
 # OmniShield
 OmniShield is a proof of concept model of a bike/motorcycle helmet capable of detecting objects in a user's blind spots, as well as warn a user if there is any threat approaching. The helmet detects incoming objects/vehicles via LIDAR sensors mounted to the rear. Status LEDs are placed in the peripheral view of the rider and are illuminated based on the distance and speed of an approaching vehicle.
 
-For more information click [here](https://omanavekar.wixsite.com/ommakes/omnishield) to access OmniShield's page on [omlabs.me](www.omlabs.me)
+For more information click [here](https://omanavekar.wixsite.com/ommakes/omnishield) to access OmniShield's page on [omlabs.me](https://omanavekar.wixsite.com/ommakes)
 
 ## Components
 | Component | Quantity | Description |
